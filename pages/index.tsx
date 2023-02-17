@@ -69,7 +69,7 @@ export default function Home() {
   return (
     <div className="flex max-w-5xl mx-auto flex-col items-center justify-center py-2 min-h-screen">
       <Head>
-        <title>AI Book Recommendations</title>
+        <title>BookMatchAI - Customized book suggestions powered by AI!</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
@@ -174,7 +174,7 @@ export default function Home() {
                             }}
                             key={generatedBook}
                           >
-                            <p>{generatedBook.trim()}</p>
+                            <div>{generatedBook.trim()}</div>
                           </div>
                         );
                       })}

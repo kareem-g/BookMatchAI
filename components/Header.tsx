@@ -12,7 +12,7 @@ export default function Header() {
       >
         📚
         <h1 className="sm:text-4xl text-2xl font-bold ml-2 tracking-tight">
-          BookMatch AI
+          BookMatchAI
         </h1>
       </Link>
       <div className="flex space-x-4 pb-4 sm:pb-0">

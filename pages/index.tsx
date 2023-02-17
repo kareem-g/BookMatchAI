@@ -111,7 +111,7 @@ export default function Home() {
             rows={4}
             className="w-full rounded-md border p-2 border-gray-300 shadow-sm focus:border-black focus:ring-black my-5"
             placeholder={
-              "e.g. Senior Developer Advocate @vercel. Tweeting about web development, AI, and React / Next.js. Writing nutlope.substack.com."
+              "e.g. Suggest A Similar book to Rich Dad Poor Dad. or AI Taking over the world Book."
             }
           />
           <div className="flex mb-5 items-center space-x-3">

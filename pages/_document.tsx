@@ -9,7 +9,7 @@ export default function Document() {
           name="description"
           content="Customized book suggestions powered by AI."
         />
-        <meta property="og:site_name" content="BookMatchAI.vercel.app" />
+        <meta property="og:site_name" content="bookmatch-ai.vercel.app" />
         <meta
           property="og:description"
           content="Customized book suggestions powered by AI."

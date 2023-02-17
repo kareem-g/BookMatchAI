@@ -29,6 +29,12 @@ export default function Document() {
       </Head>
       <body>
         <Main />
+        <script
+          async
+          defer
+          data-website-id="fd6f9390-bf5a-4762-b373-6adb5ba56375"
+          src="https://my-blog-analytics.vercel.app/umami.js"
+        ></script>
         <NextScript />
       </body>
     </Html>
